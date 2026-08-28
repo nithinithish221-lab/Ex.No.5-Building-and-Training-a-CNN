@@ -147,3 +147,14 @@ Thus successfully implemented and trained a CNN to recognize objects across ten 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
